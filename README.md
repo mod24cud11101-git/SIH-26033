@@ -105,22 +105,9 @@ The combination of direct trading, community-based order pooling, AI-assisted de
 **Step 7 – Order Completion:** Buyers receive their products, and transaction and delivery records are updated.
 
 ### Technical Workflow Diagram
+<img width="1536" height="1024" alt="FarmBridge Smart Agriculture Workflow" src="https://github.com/user-attachments/assets/f49ce59b-5beb-4e25-b839-b7652cb4897f" />
 
-```mermaid
-flowchart TD
-    A[Farmers / FPOs] --> B[FarmBridge Platform]
-    C[Consumers / Bulk Buyers] --> B
-    D[Transport Providers] --> B
-    B --> E[Product Listing and Price Management]
-    E --> F[Smart Buyer Matching]
-    F --> G[Order Placement]
-    G --> H[Logistics Coordination]
-    H --> I[AI Route Optimization]
-    B --> J[AI Demand Forecasting]
-    J --> K[Demand Insights for Farmers]
-    I --> L[Product Delivery]
-    L --> M[Order Completion]
-```
+
 
 **Prototype Development:** The initial prototype will demonstrate user registration, product listings, buyer search, order placement, a basic demand forecasting model using sample data and route suggestions using sample delivery locations.
 
@@ -128,8 +115,6 @@ Advanced integrations can be added in later development stages.
 
 ---
 ## Feasibility and Viability
-## 3. Feasibility and Viability
-
 ### Analysis of the feasibility of the idea
 
 FarmBridge is technically feasible because it can be developed using commonly available web technologies, open-source frameworks and machine learning libraries.
@@ -210,6 +195,4 @@ The following official resources provide background information for understandin
 These references provide information about digital agricultural trading, FPO participation, farmer market access and post-harvest supply chain challenges.
 
 **Conclusion:**
-
 FarmBridge aims to bridge the gap between farmers and consumers through direct digital trading, intelligent demand forecasting and coordinated logistics. By combining technology with farmer-focused market access, the proposed platform seeks to build a more transparent, efficient and sustainable agricultural supply chain.
-:::
