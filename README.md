@@ -194,5 +194,5 @@ The following official resources provide background information for understandin
 
 These references provide information about digital agricultural trading, FPO participation, farmer market access and post-harvest supply chain challenges.
 
-**Conclusion:**
+## Conclusion:
 FarmBridge aims to bridge the gap between farmers and consumers through direct digital trading, intelligent demand forecasting and coordinated logistics. By combining technology with farmer-focused market access, the proposed platform seeks to build a more transparent, efficient and sustainable agricultural supply chain.
