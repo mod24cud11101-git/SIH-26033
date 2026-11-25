@@ -197,3 +197,6 @@ These references provide information about digital agricultural trading, FPO par
 ## Conclusion
 
 FarmBridge connects farmers directly with consumers and bulk buyers through an AI-powered digital marketplace. By reducing intermediaries, improving logistics and predicting market demand, it aims to provide better prices for farmers, affordable products for consumers and a more efficient agricultural supply chain.
+
+
+
